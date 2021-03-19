@@ -42,7 +42,7 @@
 <div align="center">  
 <img style="margin: 10px" src="img/react-img.png" alt="React" height="50" />  
 <img style="margin: 10px" src="img/css-img.png" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="img" alt="HTML5" height="50" />   
+<img style="margin: 10px" src="img/html-img.png" alt="HTML5" height="50" />   
 <img style="margin: 10px" src="img/javascript-img.png" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="img/typescript-img.png" alt="TypeScript" height="50" /> 
 <img style="margin: 10px" src="img/apollo-client-img.png" alt="Apollo Client" height="50" /> 
@@ -81,11 +81,12 @@
 </div>  
 
 <br/>  
+
+
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tanishkul&show_icons=true&count_private=true&theme=dark" align="center" /></div>  
 
 <br/>  
-
 <div align="center">
 <img src="https://badges.pufler.dev/visits/tanishkul/tanishkul" align="center" />
 </div>  
