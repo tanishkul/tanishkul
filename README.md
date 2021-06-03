@@ -25,13 +25,13 @@
 - 🔭 I’m currently working as a Full Stack developer(MERN).  
   
 
-- 🌱 I’m currently learning Redux.
+- 🌱 I’m currently learning Redux and improving my knowledge in current tech stack.
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies.
+- ❓ Ask me about anything related to **MERN** stack and related technologies. I love to share the knowledge that I have as it increases by sharing not by saving.🤪
   
 
-- ⚡ Fun fact: I use tabs over spaces.
+- ⚡ Fun fact: I use tabs over spaces. A commit a day keeps the bugs away!😉
 <br/>  
 
 
