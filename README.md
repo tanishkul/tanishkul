@@ -35,6 +35,10 @@
 <br/>  
 
 
+**Latest Project**
+- Check this out my <a href="https://tanishkul.github.io/to-do-app/" target="_blank">to-do-app</a>, created using ReactJs, HTML and CSS.
+
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
