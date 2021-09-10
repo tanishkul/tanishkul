@@ -4,7 +4,7 @@
   Tanish Kulshrestha</a> 👨‍💻
 </h1>
 <p align='center'>
-  Fullstack Developer at <a href="https://successive.tech/" target="_blank">Successive Technologies 🚀</a>
+  Fullstack Developer🚀
 </p>
 <p align='center'>
  
