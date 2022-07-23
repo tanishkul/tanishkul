@@ -91,6 +91,4 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tanishkul&show_icons=true&count_private=true&theme=dark" align="center" /></div>  
 
 <br/>  
-<div align="center">
-<img src="https://badges.pufler.dev/visits/tanishkul/tanishkul" align="center" />
-</div>  
+<div align="center"><img height="100%" width="175px" id=badges src="https://komarev.com/ghpvc/?username=tanishkul&color=blue" alt=""/></div> 
